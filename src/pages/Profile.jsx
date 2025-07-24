@@ -196,7 +196,7 @@ export default function Profile({ user: propUser }) {
               </h4>
               <p className="text-gray-600">Your wishlist is currently empty.</p>
               <Link to="/products" className="text-sm text-[#c4002d] hover:underline mt-2 inline-block">
-                Add Your Favorite.
+                Add Your Favorites
               </Link>
             </div>
 
